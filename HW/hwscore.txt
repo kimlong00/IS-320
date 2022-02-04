@@ -1,0 +1,6 @@
+Mary,85,1
+Jake,100,1
+Emily,100,0
+Ben,20,1
+Cathy,30,0
+Farah,90,1
